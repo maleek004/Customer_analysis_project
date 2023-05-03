@@ -4,10 +4,28 @@
 
 This is a Powerbi report created as part of the required tasks to complete PWC’s virtual powerbi internship on Forage. The basic requirements and the datasets were provided by PWC
 
-## Problem statement 
+## Project description 
 
-- The company wants to know more about all customers,  visualized clearly so that it’s self-explanatory for the management
-- The company wants to identify customers that are at risk of churning so as to be able to reach out to them beforehand. As opposed to reaching out after they have terminated the contract which has made retention difficult.
+#### Situation/ problem statement 
+- The retention department at PhoneNOw, a telecoms company wants to better understand its customer data in order to manage churn 
+- The department wants to know more about all customers,  visualized clearly so that it’s self-explanatory for the management
+- The department wants to identify customers that are at risk of churning so as to be able to reach out to them beforehand. As opposed to reaching out after they(the customers) have terminated the contract, which has made retention difficult.
+
+#### Task
+Create a report including a dashboard for the retention manager highlighting these KPIs:
+- Customers who left within the last month
+- Services each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech
+support, and streaming TV and movies
+- Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges
+and number of tickets opened in the categories administrative and technical
+- Demographic info about customers – gender, age range, and if they have partners and dependents
+
+#### Action 
+The attached report was created visualizing overall customer demographics, behavior and details about each customers lost. 
+The full interactive report is linked below along with a quick overview under the **analysis and visualization** section of this document
+
+#### Result 
+At the end of the project, the retention manager can easily view and understand the customer base behavior under any category nad also identify customers with higher risk of churning and  proactively make efforts to retain them   
 
 ## Skills demonstrated
 
